@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Demo.Axis.AppTest"/>
-      <class name="Demo.Axis.TestNG"/>
+      <class name="Demo.Axis.ReadExcel"/>
+      <class name="Demo.Axis.WriteToExcel"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
